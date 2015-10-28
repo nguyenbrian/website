@@ -70,7 +70,7 @@ img {
 	padding-top: 60px;
 }
 
-div.button {
+.button {
 	height: 50px;
 	width:100px;
 	border-style: solid;
@@ -79,7 +79,7 @@ div.button {
 	border-radius: 5px;
 	margin: auto;
 	text-align: center;
-	margin-top: 
+	
 }
 
 a {
@@ -139,7 +139,11 @@ html {
 
 
 #scroll {
-text-align: center;
-padding-bottom: 200px;
+	text-align: center;
+	padding-bottom: 200px;
+
 }
 
+#scrolldowntext {
+	color: white;
+}
